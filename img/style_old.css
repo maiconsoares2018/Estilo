@@ -1,0 +1,22 @@
+/* Forma de personalizar usando ID 
+#cabecalho {
+color: rgb(194, 11, 11);
+text-align: center;
+}
+
+#body{
+ background-color: black;
+}
+
+#footer {
+text-align: center;
+}*/
+/* Forma de personalizar usando CLASS 
+body{
+ /* background-color: black; */
+/* background-image: url("img_minecraft.jpg");*/
+/*}
+img{
+  max-width: 100%;
+  height: auto;
+}*/
